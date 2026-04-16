@@ -1,7 +1,7 @@
 class MaxHeap:
     
     def __init__(self):
-        self.heap = []  # Array representation of the heap
+        self.heap = [] 
 
     def _parent(self, i):
         return (i - 1) // 2
