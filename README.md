@@ -11,10 +11,10 @@ A study on Heap and Heap sort
 - mh.build_heap() will turns any messy list into a proper heap
 
 **Heap sort concept used**
--heap_sort(arr) calls the heap to build a Max-Heap from your unsorted array.
--Then,itSwaps the biggest number with the last number in the array.
--Next, it reduces the heap size by 1.
--Finally, it fixes the heap again using heapify.
+heap_sort(arr) calls the heap to build a Max-Heap from your unsorted array.
+Then,itSwaps the biggest number with the last number in the array.
+Next, it reduces the heap size by 1.
+Finally, it fixes the heap again using heapify.
 
 
 **How to Run**
